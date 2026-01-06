@@ -1,4 +1,4 @@
-package io.github.dunwu.javacore.concurrent.tool;
+package io.github.dunwu.javacore.concurrent.tool.sync;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

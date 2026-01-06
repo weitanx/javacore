@@ -1,4 +1,4 @@
-package io.github.dunwu.javacore.concurrent;
+package io.github.dunwu.javacore.concurrent.tool.division;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

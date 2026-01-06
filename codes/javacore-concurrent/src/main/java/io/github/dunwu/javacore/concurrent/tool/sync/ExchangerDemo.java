@@ -1,4 +1,4 @@
-package io.github.dunwu.javacore.concurrent.tool;
+package io.github.dunwu.javacore.concurrent.tool.sync;
 
 import java.util.ArrayList;
 import java.util.List;

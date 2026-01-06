@@ -1,4 +1,4 @@
-package io.github.dunwu.javacore.concurrent.forkjoin;
+package io.github.dunwu.javacore.concurrent.tool.division;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;

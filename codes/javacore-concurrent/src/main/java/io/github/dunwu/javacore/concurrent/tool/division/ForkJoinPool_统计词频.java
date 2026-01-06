@@ -1,4 +1,4 @@
-package io.github.dunwu.javacore.concurrent.forkjoin;
+package io.github.dunwu.javacore.concurrent.tool.division;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -11,7 +11,7 @@ import java.util.concurrent.RecursiveTask;
  * @author <a href="mailto:forbreak@163.com">Zhang Peng</a>
  * @since 2020-07-03
  */
-public class ForkJoinPool统计词频 {
+public class ForkJoinPool_统计词频 {
 
     public static void main(String[] args) {
         String[] fc = {
